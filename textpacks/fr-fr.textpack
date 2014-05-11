@@ -6,4 +6,4 @@ rah_wrach_rss_label => RSS
 rah_wrach_rss_tooltip => Inclus dans les flux RSS
 rah_wrach => Wrach
 rah_wrach_show_sections => Afficher les sections (liste séparée par une virgule)
-rah_wrach_hide_section_input => Masquer le choix de section ?
+rah_wrach_hide_section_input => Masquer le choix de section dans la page des articles ?
